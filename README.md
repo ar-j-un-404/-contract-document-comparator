@@ -92,3 +92,22 @@ Important Field Detection
           |
           v
  Streamlit Interface
+
+
+contract-document-comparator/
+|
+|-- ui.py
+|-- main.py
+|-- extractor.py
+|-- cleaner.py
+|-- chunking.py
+|-- embedding.py
+|-- matching.py
+|-- comparator.py
+|-- field_detector.py
+|-- diff_utils.py
+|-- exporter.py
+|-- llm.py
+|-- report.py
+|-- requirements.txt
+|-- .gitignore
